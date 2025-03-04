@@ -1,6 +1,6 @@
 title: "Amok Blog"
 author: "Jonathan Mecham"
-description: "A blog about everything and nothing <b> style=\"color: #f45;\">&lt;3</b>"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
