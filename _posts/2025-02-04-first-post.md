@@ -4,6 +4,6 @@ layout: post
 categories: media
 ---
 
-## First Post
+## Staring a blog
 
-Testing the waters here
+Doing this just for fun and to get some experience with github pages and jekyll
