@@ -1,4 +1,4 @@
-title: "Amok Blog"
+title: "www.jonthoughts.gov.www\\jonthoughts"
 author: "Jonathan Mecham"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", icon: "Amok.png"}
+  - {file: "index.html"}
   - {file: "README.md"}
   - {file: "archive.html"}
 
