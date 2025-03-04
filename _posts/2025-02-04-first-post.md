@@ -1,6 +1,5 @@
 ---
 title:  "First Post"
-mathjax: true
 layout: post
 categories: media
 ---
